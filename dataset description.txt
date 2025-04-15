@@ -1,0 +1,5 @@
+The dataset (`kl.csv`) contains detailed attributes for FIFA 2019 players, including:
+- Player details (Name, Age, Nationality, Club)
+- Performance metrics (Overall, Potential, Value, Wage)
+- Skills (Dribbling, Passing, Shooting, etc.)
+- Positional ratings (ST, CAM, CB, etc.)
