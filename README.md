@@ -1,2 +1,3 @@
 # fifa-2019-analysis
-FIFA 2019 Player Analysis: A data exploration project using Python, Pandas, and visualization libraries to analyze player attributes and optimize a 4-3-3 formation. Includes Jupyter notebook and dataset.
+## Project Overview
+The goal of this project is to analyze the FIFA 2019 dataset to uncover insights about player skills, positions, and team strategies. The analysis includes data cleaning, exploratory data analysis (EDA), and visualization of player attributes, culminating in a visualization of the optimal formations.
